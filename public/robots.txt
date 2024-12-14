@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.elitefields.site
+
+# Sitemaps
+Sitemap: https://www.elitefields.site/sitemap.xml
